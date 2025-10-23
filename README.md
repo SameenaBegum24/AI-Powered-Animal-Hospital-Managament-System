@@ -1,1 +1,16 @@
-# AI-Powered-Animal-Hospital-Managament-System
+
+
+
+# 1.Problem Statement
+# AI-POWERED-ANIMAL-HOSPITAL-MANAGEMENT-SYSTEM
+
+# 2.TOOLS
+# HTML,CSS,JS,PYTHON,DJANGO,NLTK
+
+# 3.TEAM MEMBERS
+# NAVATHA
+# SAMEENA
+# ASHRITHA
+# SRAVANI
+
+
